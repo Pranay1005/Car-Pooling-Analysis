@@ -18,7 +18,7 @@ system to calculate an estimate of the distance covered by each ride
 The following picture illustrates a dashboard that allows to learn more
 about the size of this phenomenon, and when or how is it most used.
 
-![Dashboard](https://github.com/francescolafratta/powerbi-car-sharing/blob/main/resources/dashboard.png)
+![Dashboard](https://github.com/Pranay1005/Car-Pooling-Analysis/blob/main/resources/dashboard.png)
 
 ### Key findings
 - More than 120 thousand rides have occurred.
