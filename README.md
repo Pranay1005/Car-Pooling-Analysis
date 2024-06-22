@@ -30,7 +30,7 @@ The following map allows to visualize the starting locations of the car rides
 during the timeline of analysis. It also gives insights as to which zones of the
 city tend to use the service the most.
 
-![Timeline](https://github.com/francescolafratta/powerbi-car-sharing/blob/main/resources/timeline.gif)
+![Timeline](https://github.com/Pranay1005/Car-Pooling-Analysis/blob/main/resources/timeline.gif)
 
-Check out the [.pbix](https://github.com/francescolafratta/powerbi-car-sharing/blob/main/carsharing.pbix)
+Check out the [.pbix](https://github.com/Pranay1005/Car-Pooling-Analysis/blob/main/carsharing.pbix)
 file to visualize the data yourself!
